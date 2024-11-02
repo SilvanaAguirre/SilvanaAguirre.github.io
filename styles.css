@@ -30,6 +30,43 @@
     margin-inline-end: 10px;
 }
 
+
+.servicios {
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+    /* Espacio para el rectángulo superior */
+    margin-left: 410px;
+    /* Espacio para el rectángulo izquierdo */
+    /* Aquí puedes añadir otros estilos */
+    max-width: 1000px;
+    /* Máximo ancho para el texto */
+    text-align: justify;
+}
+
+.servicios h2 {
+    margin-left: 400px;
+}
+
+.serviciosTitle {
+    margin-top: 50px;
+    /* Espacio para el rectángulo superior */
+    margin-left: 825px;
+    /* Espacio para el rectángulo izquierdo */
+    /* Aquí puedes añadir otros estilos */
+    display: flex;
+    /* Usa flexbox para alinear imagen y texto */
+    align-items: center;
+    /* Centra verticalmente los elementos */
+    color: #66a1af;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30PX;
+    /* Ajusta este valor para cambiar el espacio */
+    margin-bottom: 5px;
+}
+
 .aboutMe {
     /*background-image: url("Backgrounds.jpg");*/
     margin-top: 75px;
@@ -126,7 +163,7 @@ footer {
 .guidesTitle {
     margin-top: 50px;
     /* Espacio para el rectángulo superior */
-    margin-left: 850px;
+    margin-left: 825px;
     /* Espacio para el rectángulo izquierdo */
     /* Aquí puedes añadir otros estilos */
     display: flex;

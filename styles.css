@@ -38,16 +38,16 @@
     text-align: center;
     margin-top: 10px;
     /* Espacio para el rectángulo superior */
-    margin-left: 410px;
+    margin-left: 300px;
     /* Espacio para el rectángulo izquierdo */
     /* Aquí puedes añadir otros estilos */
-    max-width: 1000px;
+    margin-right: 50px;
     /* Máximo ancho para el texto */
     text-align: justify;
 }
 
-.servicios h2 {
-    margin-left: 400px;
+.serviciosTitleSub {
+    margin-left: 825px;
 }
 
 .serviciosTitle {
@@ -148,10 +148,10 @@ footer {
     margin-top: 10px;
     align-items: flex-start;
     /* Espacio para el rectángulo superior */
-    margin-left: 300px;
+    margin-left: 250px;
     /* Espacio para el rectángulo izquierdo */
     /* Aquí puedes añadir otros estilos */
-    max-width: 4000px;
+
     /* Máximo ancho para el texto */
     display: flex;
     /* Utiliza flexbox para alinear elementos */
@@ -186,9 +186,6 @@ p {
     padding: 50px;
     /* Espacio interno */
     width: 50%;
-    /* Ancho de cada caja */
     box-sizing: border-box;
     /* Incluye padding y borde en el ancho total */
 }
-
-.guidesPhoto {}

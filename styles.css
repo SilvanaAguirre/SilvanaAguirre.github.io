@@ -185,7 +185,7 @@ p {
 .caja {
     padding: 50px;
     /* Espacio interno */
-    width: 50%;
+    width: 350px;
     box-sizing: border-box;
     /* Incluye padding y borde en el ancho total */
 }
